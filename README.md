@@ -1,2 +1,2 @@
 # hello-world
-this is the first project on githup
+i love android programming much
